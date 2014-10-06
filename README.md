@@ -1,6 +1,10 @@
 # Sales Engine
 
-(insert project completion goals for first check-in here)
+  -intial set-up
+  -focus on listing and searching 
+  -use TDD to build and test at least 3 of the 6 csv files.
+  -re-read project expectations to get to know what this is asking us for
+  -have mapped structure for project
 
 (insert project completion goals for second check-in here)
 
